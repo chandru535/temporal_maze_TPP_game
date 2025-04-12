@@ -6,9 +6,12 @@ This repository serves as a reference point for my **Temporal Maze** project dev
 
 Click the link below to access the full Temporal Maze project:
 
-👉 [Download Temporal Maze Project from Google Drive]()
+👉 [Download Temporal Maze Project from Google Drive](https://drive.google.com/drive/folders/1b82uHCfneyhTn4RfiLj9e5x2Pj1PKqCh?usp=sharing)
 
 > Note: Make sure you have enough space (project size is over 1 GB) and a stable internet connection before downloading.
+
+# To run the application
+Download the project, Project folder > Windows > .exe files
 
 ## 🛠️ Project Details
 
